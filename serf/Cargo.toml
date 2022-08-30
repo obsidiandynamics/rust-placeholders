@@ -1,5 +1,5 @@
 [package]
-name = "bespin"
+name = "serf"
 version = "0.0.0"
 edition = "2021"
 authors = ["Emil Koutanov"]

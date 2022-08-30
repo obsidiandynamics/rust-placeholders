@@ -1,4 +1,15 @@
 [workspace]
 members = [
+    "amalgam",
+    "arena",
     "bespin",
+    "kryo",
+    "kylo",
+    "loco",
+    "motive",
+    "serf",
+    "subzero",
+    "synchrony",
+    "vader",
+    "yoda",
 ]
