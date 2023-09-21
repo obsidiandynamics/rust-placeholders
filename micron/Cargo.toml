@@ -1,0 +1,10 @@
+[package]
+name = "micron"
+version = "0.0.0"
+edition = "2021"
+authors = ["Emil Koutanov"]
+license = "MIT"
+description = "Placeholder"
+repository = "https://github.com/obsidiandynamics/rust-placeholders"
+exclude = ["/bin", "/.idea", "/.github", "/coverage", "/doc"]
+readme = "../README.md"

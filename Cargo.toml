@@ -6,10 +6,12 @@ members = [
     "kryo",
     "kylo",
     "loco",
+    "micron",
     "motive",
     "serf",
     "subzero",
     "synchrony",
     "vader",
+    "xcom",
     "yoda",
 ]
